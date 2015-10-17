@@ -7,4 +7,5 @@
 ## Paleomagnetic lab operation
 
 [Tuning the magnetometer SQuIDs](SQuID_tuning.md)
+
 [Using the turbopump to establish magnetometer vacuum](turbopump_operation.md)
