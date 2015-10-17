@@ -6,4 +6,4 @@
 
 ## Paleomagnetic lab operation
 
-[Convert .sam file to MagIC format](turbopump_operation.md)
+[Using the turbopump to establish magnetometer vacuum](turbopump_operation.md)
