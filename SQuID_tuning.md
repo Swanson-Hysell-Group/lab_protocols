@@ -1,4 +1,4 @@
-# SQuID tuning procedure at Berkeley
+# SQuID tuning procedure in UC Berkeley Paleomagnetism lab
 
 1. Turn on Owon Oscilloscope
 2. Attach AC_OUT (X_axis) cable to CH 1 and SYNC (X_axis) cable to EXT TRIG
