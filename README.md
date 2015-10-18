@@ -8,4 +8,6 @@
 
 [Tuning the magnetometer SQuIDs](SQuID_tuning.md)
 
+[Trapping the field in the magnetometer](field_trapping.md)
+
 [Using the turbopump to establish magnetometer vacuum](turbopump_operation.md)
