@@ -1,7 +1,7 @@
 # Trapping the field on a superconducting rock magnetometer
 
-** The "why" behind trapping the field
-Excerpt from the Spring 2009 IRM Quarterly  **Free the Flux! (What is “Trapped Flux”?)** by Julie Bowles
+## The "why" behind trapping the field
+Below is an excerpt from the Spring 2009 IRM Quarterly  **Free the Flux! (What is “Trapped Flux”?)** written by Julie Bowles:
 
 > You may have come across the phrase “trapped flux” in reference to a SQUID magnetometer. What exactly is trapped flux and how do you get rid of it? The simplest example of trapped flux comes from cooling a superconducting ring in the presence of a magnetic field. Once the ring is below the critical temperature, any attempt to remove the field will generate a persistent current in the ring that opposes the change. The flux threading the loop will therefore remain constant, even if the external field is removed. i.e. -- you have trapped flux. The only way to untrap it is to heat the ring above its critical temperature and set the flux free.
 
