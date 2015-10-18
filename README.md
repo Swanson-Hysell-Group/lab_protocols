@@ -2,7 +2,7 @@
 
 ## Data analysis
 
-[Convert .sam file to MagIC format](converting_sam_to_magic.md)
+[Convert .sam file to MagIC format](Data_Analysis/converting_sam_to_magic.md)
 
 ## Paleomagnetic lab operation
 
