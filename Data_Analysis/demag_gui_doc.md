@@ -1,5 +1,7 @@
 # demag_gui Usage and Tips
 
+![](./images/demag_gui.png)
+
 ## Installing
 
 This program is part of the [PmagPy repository](https://github.com/ltauxe/PmagPy) which can be downloaded or cloned from Github. To run  demag_gui it is necessary to download and install a working version of [python 2.7](https://www.python.org/downloads/), the latest version of the GUI library [wxpython](http://www.wxpython.org/download.php), and the basic scientific libraries that are part of the [scipy project](http://www.scipy.org/install.html). The easiest way to do this is to install the Enthought Canopy distribution as described in the PmagPy cookbook: http://earthref.org/PmagPy/cookbook/#QQ2-1-2.
@@ -24,7 +26,7 @@ python ./QuickMagIC.py
 
 QuickMagIC can also be used to convert files to magic format prior to launching demag_GUI. The program can be started by clicking on the demag_gui button in the QuickMagIC GUI, shown below. **Note:** on OSX it is recommended to launch through the QuickMagIC program as on wxpython 2.9 the drop down boxes seem to behave better when demag_gui is launched this way:
 
-![](../images/QuickMagicLauncher.png)
+![](./images/QuickMagicLauncher.png)
 
 ## Interpretation of Specimen Data
 
