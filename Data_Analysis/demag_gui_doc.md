@@ -1,10 +1,10 @@
-# Demag_GUI Usage and Tips
+# demag_gui Usage and Tips
 
 ## Installing
 
-After downloading the [PmagPy repository](https://github.com/ltauxe/PmagPy) from github, to run this version of demag_gui it is necessary to download and install a working version of [python 2.7](https://www.python.org/downloads/), the latest version of the GUI library [wxpython](http://www.wxpython.org/download.php), and the basic scientific libraries that are part of the [scipy project](http://www.scipy.org/install.html). The easiest way to do this is to install the Enthough Canopy distribution as described in the PmagPy cookbook: http://earthref.org/PmagPy/cookbook/#QQ2-1-2
+This program is part of the [PmagPy repository](https://github.com/ltauxe/PmagPy) which can be downloaded or cloned from Github. To run  demag_gui it is necessary to download and install a working version of [python 2.7](https://www.python.org/downloads/), the latest version of the GUI library [wxpython](http://www.wxpython.org/download.php), and the basic scientific libraries that are part of the [scipy project](http://www.scipy.org/install.html). The easiest way to do this is to install the Enthought Canopy distribution as described in the PmagPy cookbook: http://earthref.org/PmagPy/cookbook/#QQ2-1-2.
 
-Note that the version of demag_GUI we are using is yet to be merged with the main PmagPy project and is in the this fork of the project: https://github.com/Caoimhinmg/PmagPy
+Note that the version of demag_gui, we are using in our group is yet to be merged with the main PmagPy project and is in this fork of the project: https://github.com/Caoimhinmg/PmagPy.
 
 ## Launching
 
@@ -14,10 +14,17 @@ The GUI may be launched with the command line by navigating to the directory con
 python ./demag_gui.py
 ```
 
-The demag_gui program can be started through the QuickMagIC program that is also part of PmagPy. If you have QuickMagIC already running or if you need to convert files to magic format you can launch demag_gui by clicking on the demag_gui button in the QuickMagIC GUI, shown below. **Note:** on OSX it is recommended to launch through the QuickMagIC program as on wxpython 2.9 the drop down boxes seem to behave better when demag_gui is launched this way:
+If PmagPy has been added to your PATH you can simply type demag_gui at the command line.
+
+The demag_gui program can be started through the QuickMagIC program that is also part of PmagPy. QuickMagIC can be started by navigating to the directory containing it and running it with:
+
+```bash
+python ./QuickMagIC.py
+```
+
+QuickMagIC can also be used to convert files to magic format prior to launching demag_GUI. The program can be started by clicking on the demag_gui button in the QuickMagIC GUI, shown below. **Note:** on OSX it is recommended to launch through the QuickMagIC program as on wxpython 2.9 the drop down boxes seem to behave better when demag_gui is launched this way:
 
 ![](../images/QuickMagicLauncher.png)
-\pagebreak
 
 ## Interpretation of Specimen Data
 
@@ -26,10 +33,10 @@ You can analyze specimen component data by adding fits with the add fit button. 
 ![](../images/FitBox.png)
 
 Once you have selected the desired fit you can edit its bounds using the drop down boxes under the bounds header  
-![](../images/BoundsBox.png) \pagebreak
+![](../images/BoundsBox.png)
 
 Alternatively you can double click the list of measurement steps on the left to pick out the bounds of your interpretation. The included steps in the currently selected interpretation. are shown in blue on this list and measurement steps marked bad are shown in yellow. **Note:** in case of duplicate measurements the first *good* measurement with the same treatment is used (i.e. in the picture below step 20 would be selected as the upper bound of this interpertation if it were not flagged bad and step 21 would not be included)  
-![](../images/Logger.png) \pagebreak
+![](../images/Logger.png)
 
 You may notice that the fit will be given a generic name such as *Fit 1* you can change the name of the fit from default by typing into the drop down box containing fits then pressing enter. The default fit type is a least-squares line. You can choose different fits such as a line anchored to the origin or a plane by using the drop down menu under specimen mean type.  
 ![](../images/SpecimenMeanType.png)
@@ -73,22 +80,22 @@ Select the menu option File/"Save plot"/"Save all plots" to save all plots alter
 
 ### Deleting Specimen Interpretations
 
-If you would like to delete a single interpretation. select the one you wish to delete from the interpretation. drop down box then click delete. Alternatively if you wish to clear all interpretations you may go to the menu option Analysis/"Clear all current interpretations".  
+If you would like to delete a single interpretation. select the one you wish to delete from the interpretation drop down menu and click delete. Alternatively if you wish to clear all interpretations you may go to the menu option Analysis/"Clear all current interpretations".  
 ![](../images/SaveDelete.png)  
 
 ## Higher Level Plots and Interpretation
 
-The set of drop down boxes to the right of the interpretation. data is there to determine what level you want to analyze in the higher level analysis options include: site, sample, location, and study. The drop down below this selects which of the available sites, samples, location, or studies you want to display.  
+The set of drop down boxes to the right of the interpretation data is there to determine what level you want to analyze in the higher level analysis options include: site, sample, location, and study. The drop down below this selects which of the available sites, samples, location, or studies you want to display.
 ![](../images/HigherOrderOptions.png)
 
-You can then select how to group your data by using the drop down menu under the show header. You can select what kind of mean to take using the first drop down under the mean header. Which interpretations to use for the means can be selected under the second drop down menu. You can then use the remove/replace button to remove or replace the set of points belonging to the current specimen in the higher order mean.  
+You can then select how to group your data by using the drop down menu under the show header. You can select what kind of mean to take using the first drop down under the mean header. Which interpretations to use for the means can be selected under the second drop down menu. You can then use the remove/replace button to remove or replace the set of points belonging to the current specimen in the higher order mean.
 ![](../images/HigherOrderMeanOptions.png)
 
-You can view Fisher/Bingham statistics in the bottom left of the GUI.  
+You can view the mean statistics of all fits for the selected fit type in the bottom left of the GUI.
 ![](../images/HigherOrderMeanOutput.png)
 
 ### Interpretation Editor
 
-In order to more easily view and edit specimen interpretation. data a separate specimen interpretation. editor has been created under the tools menu of the Demag GUI. This panel consists mostly of a log of all interpretations and their parameters from which you can select which interpretation. to view double clicking on the interpretation. in the list, the currently selected interpretation. is colored blue as shown in the image below. You can mark interpretations as bad which removes them from any fisher means or other high level means by right clicking on their entry in the list, all interpretations marked bad are colored yellow. Further you can highlight interpretations by singly clicking on the list and holding the shift or ctrl key (command key on mac) to select multiple interpretations this will allow you to delete or alter the characteristics of multiple interpretations at once without having to select each one in turn. This mass alteration is allowable using the the Name/Color/Bounds boxes to input new data then clicking the "apply changes to highlighted fits" button. You can delete highlighted fits using the "delete highlighted fits" button. The "add fit" button in the interpretation. editor adds a fit to the current specimen. In the case of interpreting large data sets you can reduce the number of items plotted on the equal area at the bottom of the editor and the number of entries in the log by using the display settings. The equal area plot on the bottom works just like the higher level equal area on the main Demag GUI panel allowing you to select interpretations on it by double clicking and zoom by clicking and dragging.
+In order to more easily view and edit specimen interpretation data there is a specimen interpretation editor which can be launched from the tools menu of the Demag GUI. This panel details the fits made to the data and their parameters from which you can select which interpretation to view by double clicking on it. In the list, the currently selected interpretation is highlighted blue as shown in the image below. You can mark interpretations as bad which removes them from any Fisher means or other high level means by right clicking on their entry in the list. All interpretations marked bad are colored yellow. Interpretations can be highlight by clicking on the list and holding the shift or ctrl key (command key on mac) to select multiple interpretations. Doing so allows you to delete or alter the characteristics of multiple interpretations at once without having to select each one in turn. This mass alteration is allowable using the the Name/Color/Bounds boxes to input new data then clicking the "apply changes to highlighted fits" button. You can delete highlighted fits using the "delete highlighted fits" button. The "add fit" button in the interpretation editor adds a fit to the current specimen. In the case of interpreting large data sets you can reduce the number of items plotted on the equal area at the bottom of the editor and the number of entries in the log by changing the display settings. The equal area plot on the bottom works just like the higher level equal area on the main Demag GUI panel allowing you to select interpretations on it by double clicking and to zoom by clicking and dragging.
 
 ![](../images/InterpEditor.png)
