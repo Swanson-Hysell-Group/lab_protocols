@@ -3,7 +3,9 @@
 ## Data analysis
 
 [Making .sam header files from orientation data](Data_Analysis/making_sam_files.md)
+
 [Convert .sam file to MagIC format](Data_Analysis/converting_sam_to_magic.md)
+
 [Analyze data using demag_gui.py](Data_Analysis/demag_gui_doc.md)
 
 ## Paleomagnetic lab operation
