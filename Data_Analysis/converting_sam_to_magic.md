@@ -6,8 +6,9 @@ To execute this protocol you need to download PmagPy (https://github.com/ltauxe/
 
 (2) Use the CIT_magic.py program to convert the data from .sam file format into MagIC format. You can find out about all the options availible in CIT_magic.py by typing `CIT_magic.py -h`
 
-Here is what it looks like to run the function
-CIT_magic.py -f [name of the .sam file] -spc [# of characters denoting the specimen] -ncn [# corresponding to naming convention (see below)] -A [include this if you don't want to average multiple measurments] 
+Here is what it looks like to run the function:
+
+CIT_magic.py -f *name of the .sam file* -spc *# of characters denoting the specimen* -ncn *# corresponding to naming convention (see below)* -A *include this if you don't want to average multiple measurments* 
 
 Here is an example:
 
