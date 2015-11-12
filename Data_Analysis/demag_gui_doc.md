@@ -4,9 +4,7 @@
 
 ## Installing
 
-This program is part of the [PmagPy repository](https://github.com/ltauxe/PmagPy) which can be downloaded or cloned from Github. To run  demag_gui it is necessary to download and install a working version of [python 2.7](https://www.python.org/downloads/), the latest version of the GUI library [wxpython](http://www.wxpython.org/download.php), and the basic scientific libraries that are part of the [scipy project](http://www.scipy.org/install.html). The easiest way to do this is to install the Enthought Canopy distribution as described in the PmagPy cookbook: http://earthref.org/PmagPy/cookbook/#QQ2-1-2.
-
-**Note that the version of demag_gui, we are using in our group is yet to be merged with the main PmagPy project and is in this fork of the project: https://github.com/Caoimhinmg/PmagPy.**
+This program is part of the [PmagPy repository](https://github.com/ltauxe/PmagPy) which can be downloaded or cloned from Github. To run demag_gui.py it is necessary to download and install a working version of [python 2.7](https://www.python.org/downloads/), the latest version of the GUI library [wxpython](http://www.wxpython.org/download.php), and the basic scientific libraries that are part of the [scipy project](http://www.scipy.org/install.html). The easiest way to get all that you need is to install the Enthought Canopy distribution as described in the PmagPy cookbook: http://earthref.org/PmagPy/cookbook/#QQ2-1-2.
 
 ## Launching
 
