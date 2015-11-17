@@ -38,11 +38,29 @@ Cat # 11-678-24A 5 1/4 L x 5 1/4 W x 2 in.H
 Thermo Scientific Revco No.:5954Pck of 12 $36.32
 http://tiny.cc/pv0uq
 
-#### Cardboard inserts for powdered sample vials
+Cardboard inserts for powdered sample vials
 Fisher Scientific
 Cat # 13-989-218 Divider Grid 1/4 in. 81cell 12/pk $22.05
 Thermo Scientific No.:6212
 http://tiny.cc/ey1hx
+
+#### MICROCENTRIFUGE TUBES
+
+2.0 ml microcentrifuge tubes, natural
+USA Scientific Inc.
+Part Number: 1420-2700
+Preferred location: 001,BFS ID: 0000003570
+Count: 500
+Price: 22.40
+
+#### SAMPLE BAGS
+
+Fisherbrand Sterile Sampling Bags with Flat-Wire Closures; Capacity: 18 oz.; Thickness: 3mil; Clear; 1000/CS
+Fisher Scientific
+Part Number: 14955186 (CS)
+Preferred location: 001,BFS ID: 0000001996
+Count: 1000
+Price: 172.66
 
 ### CHEMICALS
 
