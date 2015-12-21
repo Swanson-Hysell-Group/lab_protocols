@@ -2,5 +2,5 @@
 
 Create a .csv file that has these column headings:
 
-AgeLower	| AgeNominal	| AgeUpper	| Block	| CPlat	| CPlon	| Dec		| Formation	| Inc	| N	| PLat	| PLon	| Q	| SLat	| SLon	| Terrane	| a95	| k |
+AgeLower	| AgeNominal	| AgeUpper	| Block	| CPlat	| CPlon	| Dec		| Formation	| Inc	| N	| PLat	| PLon	| Q	| SLat	| SLon	| Region	| a95	| k |
 ----	| ----	| ----	| ----	| ----	| ----	| ----		| ----	| ----	| ----	| ----	| ----	| ----	| ----	| ----	| ----	| ----	| ---- |
