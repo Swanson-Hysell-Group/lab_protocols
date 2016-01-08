@@ -1,6 +1,14 @@
 ### Swanson-Hysell Lab Common Lab Supplies
 
 
+#### Vacuum hose for RAPID magnetometer
+
+Hose, 1 In X 100 Ft
+Grainger Item # 4XR62
+
+Self-Fusing Tape, 1 x 432 in, 20 mil, White
+Grainger Item # 6PFH1
+
 #### High-temperature cement
 http://www.omega.com/pptst/OB_BOND_CHEM_SET.html
 
