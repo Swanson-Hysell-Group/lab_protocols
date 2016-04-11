@@ -4,7 +4,7 @@ The repository you can find here: https://github.com/Swanson-Hysell-Group/SAM_He
 
 ##How to use the code:
 
-- Enter data into the spreadsheet template ([sam_sample_template.xlsx](https://github.com/Swanson-Hysell-Group/SAM_Header/raw/master/sam_sample_template.xlsx) or [sam_sample_template.csv](https://github.com/Swanson-Hysell-Group/SAM_Header/raw/master/sam_sample_template.csv)) and then save as a csv.
+- Enter data into the spreadsheet template ([sam_sample_template.xlsx](https://github.com/Swanson-Hysell-Group/SAM_Header/raw/master/sam_sample_template.xlsx) or [sam_sample_template.csv](https://github.com/Swanson-Hysell-Group/SAM_Header/raw/master/sam_sample_template.csv)) and then save as a csv. One .csv file is needed for each site.
 - Run the python script mk_sam_file.py using command line specifying use of the .csv file you have saved:
 ```bash
 ~/$ python mk_sam_file.py site.csv [optional - output_path]
