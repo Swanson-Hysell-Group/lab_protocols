@@ -38,7 +38,9 @@ length 1100 mm
 part #: fqapsys17-19-1100
 specify that we need the tube segments to be as straight as possible
 
-#### SAMPLE BOXES
+### CARBONATE POWDER SUPPLIES
+
+#### Samples Boxes
 
 Cardboard boxes for powdered sample vials
 Fisher Scientific
@@ -52,7 +54,7 @@ Cat # 13-989-218 Divider Grid 1/4 in. 81cell 12/pk $22.05
 Thermo Scientific No.:6212
 http://tiny.cc/ey1hx
 
-#### MICROCENTRIFUGE TUBES
+#### Microcentrifuge Tubes
 
 2.0 ml microcentrifuge tubes, natural
 USA Scientific Inc.
@@ -61,14 +63,24 @@ Preferred location: 001,BFS ID: 0000003570
 Count: 500
 Price: 22.40
 
-#### SAMPLE BAGS
+#### Sample Bags
 
 Fisherbrand Sterile Sampling Bags with Flat-Wire Closures; Capacity: 18 oz.; Thickness: 3mil; Clear; 1000/CS
 Fisher Scientific
 Part Number: 14955186 (CS)
-Preferred location: 001,BFS ID: 0000001996
+Preferred location: 001, BFS ID: 0000001996
 Count: 1000
 Price: 172.66
+
+#### Falcon Tubes
+
+Falcon 15 mL High-Clarity Polypropylene Conical Tube; 17x120mm
+Fisher Scientific
+Part Number: 1495953A
+Manufacturer Part Number: 352196
+Preferred location: 001, BFS ID: 0000001996
+Count: 500
+Price: 72.25
 
 ### CHEMICALS
 
