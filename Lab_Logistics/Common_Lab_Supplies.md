@@ -31,11 +31,12 @@ We will mount <1" diameter samples on these quartz disks which are otherwise too
 
 fused quartz tubing
 http://www.technicalglass.com
-fire polished
+tgp@tgpohio.com
 ID 17mm
 OD 19 mm
 length 1100 mm
 part #: fqapsys17-19-1100
+both ends fire polished
 specify that we need the tube segments to be as straight as possible
 
 ### CARBONATE POWDER SUPPLIES
