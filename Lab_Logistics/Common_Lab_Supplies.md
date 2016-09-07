@@ -1,5 +1,8 @@
-### Swanson-Hysell Lab Common Lab Supplies
+### Ordering supplies for the lab
 
+Go to: https://bearbuy.is.berkeley.edu/ and log-in. Some items can be found through one of the vendors on the site. If what needs to be ordered is a "Non-catalog item," click Non-Catalog Form under Frequently used forms and fill out the information. Once a cart has been created, some addition info needs to be entered. Click cart details and enter the "Org Node" of the department which is PGEGE. If you know the accounting code, enter it. If not, leave it blank. Under comments, enter the rationale for the order and its benefit to the project (this is required by the university if NSF funds are being used for the purchase). Make sure that the shipping info is filled out and then assign the cart to Nick Swanson-Hysell who can approve and submit to university purchasing.
+
+### Swanson-Hysell Lab Common Lab Supplies
 
 #### Vacuum hose for RAPID magnetometer
 
