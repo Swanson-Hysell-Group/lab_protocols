@@ -1,4 +1,4 @@
-# Converting .sam magnetic data files into MagIC format
+# Converting .sam magnetic data files into MagIC format at the command line
 
 To execute this protocol you need to download PmagPy (https://github.com/ltauxe/PmagPy) and have it added to your path. There are installers as part of the PmagPy project that will add the directory to your path for you (see more info within the PmagPy cookbook: http://earthref.org/PmagPy/cookbook/) or, if you are using a Mac, you can add `export PATH=~/PmagPy:./:$PATH` to your .profile or .bash_profile file in your home directory.
 
