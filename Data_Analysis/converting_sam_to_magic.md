@@ -1,5 +1,4 @@
 # Converting from RAPID (CIT) formation to MagIC
-=================
 
 PmagPy provides tools for converting .sam format files into MagIC format both through the Pmag GUI application which is availible as a standalone download for Mac OSX users with no need for a local Python installation. Users on all platforms with a scientific Python installation (see PmagPy Cookbook for how to get started) can also run the GUI. Command line tools are also availible for .sam conversion. Conversion using Pmag GUI then allows a user to utilize the built-in Demag GUI program for data analysis.
 
