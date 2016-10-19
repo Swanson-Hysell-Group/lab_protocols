@@ -1,4 +1,11 @@
-# Converting .sam magnetic data files into MagIC format at the command line
+# Converting .sam data files into MagIC format using Pmag GUI
+
+To do this conversion, you need to download the Pmag_GUI OSX standalone program (https://github.com/PmagPy/PmagPy-Standalone-OSX/releases) or launch the pmag_gui.py from the command line. There isn't a functional Windows standalone app at this time.
+
+Once Pmag GUI is downloaded, you should open the appropriate folder and double click the icon (depending on your security settings, you may have to right click the icon and then select “ok” the first time you open it).
+
+
+# Converting .sam data files into MagIC format at the command line
 
 To execute this protocol you need to download PmagPy (https://github.com/ltauxe/PmagPy) and have it added to your path. There are installers as part of the PmagPy project that will add the directory to your path for you (see more info within the PmagPy cookbook: http://earthref.org/PmagPy/cookbook/) or, if you are using a Mac, you can add `export PATH=~/PmagPy:./:$PATH` to your .profile or .bash_profile file in your home directory.
 
