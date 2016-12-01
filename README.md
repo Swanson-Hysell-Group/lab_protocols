@@ -16,6 +16,7 @@
 
 [Using the turbopump to establish magnetometer vacuum](Magnetometer_Operations/turbopump_operation.md)
 
-## Other
+## Lab Logistics
 
+[Lab Roster and Safety Training](Lab_Logistics/Lab_Roster_Safety_Training.md)
 [Supply ordering information](Lab_Logistics/Common_Lab_Supplies.md)
