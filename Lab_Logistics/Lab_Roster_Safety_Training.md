@@ -1,5 +1,7 @@
 ### Managing the lab roster
 
+Personnel can be added and taken off the lab roster here:
+
 https://jwas.ehs.berkeley.edu/lab/roster/list
 
 ### Online safety training
