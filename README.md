@@ -16,6 +16,8 @@
 
 [Using the turbopump to establish magnetometer vacuum](Magnetometer_Operations/turbopump_operation.md)
 
+[Using the magnetometer software](Magnetometer_Operations/Hargraves_QuickStart.pdf)
+
 ## Lab Logistics
 
 [Lab Roster and Safety Training](Lab_Logistics/Lab_Roster_Safety_Training.md)
