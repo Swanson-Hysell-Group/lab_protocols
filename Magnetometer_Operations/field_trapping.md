@@ -15,10 +15,10 @@ Below is an excerpt from the Spring 2009 IRM Quarterly  **Free the Flux! (What i
 Connect the temperature monitor cable into port on magnetometer by the SQuID electronic boxes. A single cable controls heater and gives temperature reading. Connect the nulling cable from the control monitor to the cable that comes out of the magnetometer.
 
 4. **Warm magnetometer and trap the field.**
-Another effective way to warm and then cool is to simply turn off the Cryomech compressor (and to savor the brief silence in the lab when it is off). Turn off compressor (press green button) and allow TSH and TSQ to warm up to 8 or 9 K. This warming should take around 10 minutes. The shield stops being superconducting at ~7.2 K. Once the system warms up to 8 or 9 K, turn compressor back on so that the system cools back down. Before turning the compressor back on, adjust nulling coils to get a zero reading on the fluxgate (usually are left with 1 to 3 nT when the field is trapped). Then turn the compressor on continuing adjustments as needed with the coils as it cools. The field will be trapped at ~7.2 K. Once the systems is cooled to ~5 K disconnect nulling coils.
+To warm up the system simply turn off the Cryomech compressor by pressing the green button (savor the brief silence in the lab when it is off). After compressor is turned off, allow TSH and TSQ to warm up to 8 or 9 K. This warming should take around 10 minutes. The shield stops being superconducting at ~7.2 K. Once the system warms up to 8 or 9 K, turn the compressor back on so that the system cools back down. Before turning the compressor back on, adjust nulling coils to get a zero reading on the fluxgate (usually are left with 1 to 3 nT when the field is trapped). Adjustments can be continued as needed with the nulling coils as the system cools. The field will be trapped at ~7.2 K. Once the systems is cooled to ~5 K disconnect nulling coils.
 
 5. **Wait until system fully cools and stabilizes**
-Cooling should continue until the SQuID temperature is back to ~3.9K and there is little drift.The 2G Enterprise manual states that the lowest noise environment will be achieved about an hour after the system has cooled down.
+Cooling should continue until the SQuID temperature is back to ~3.9K and there is little drift. The 2G Enterprise manual states that the lowest noise environment will be achieved about an hour after the system has cooled down. In practice, this can take more time.
 
 ## Procedure at the IRM
 
