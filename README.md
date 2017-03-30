@@ -23,3 +23,7 @@
 [Lab Roster and Safety Training](Lab_Logistics/Lab_Roster_Safety_Training.md)
 
 [Supply ordering information](Lab_Logistics/Common_Lab_Supplies.md)
+
+## Manuscript Prep
+
+[Syncing a manuscript between ShareLatex and Github](Manuscript_Prep/ShareLatex_Github.md)
