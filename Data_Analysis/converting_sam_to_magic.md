@@ -56,21 +56,28 @@ You can then click Demag GUI to launch Demag GUI. Please see the PmagPy Cookbook
 
 To execute this protocol you need to download PmagPy (https://github.com/ltauxe/PmagPy) and have it added to your path. There are installers as part of the PmagPy project that will add the directory to your path for you (see more info within the PmagPy cookbook: http://earthref.org/PmagPy/cookbook/) or, if you are using a Mac, you can add `export PATH=~/PmagPy:./:$PATH` to your .profile or .bash_profile file in your home directory.
 
+(0) For Hargraves data, you will need to copy data files from the Hargraves Dropbox and paste into a local folder. You will then need to unlock these files before you can work with them. On a Mac, you can recursively unlock a large number of files with this bash command:
+```bash
+chflags -R nouchg /PATH/TO/DIRECTORY/WITH/LOCKED/FILES/
+```
+
 (1) Within Terminal, navigate into directory with the .sam and data files you wish to convert.
 
 (2) Use the CIT_magic.py program to convert the data from .sam file format into MagIC format. You can find out about all the options availible in CIT_magic.py by typing `CIT_magic.py -h`
 
 Here is what it looks like to run the function:
 
-CIT_magic.py -f *name of the .sam file* -spc *# of characters denoting the specimen* -ncn *# corresponding to naming convention (see below)* -A *include this if you don't want to average multiple measurments* 
+CIT_magic.py -f *name of the .sam file* -spc *# of characters denoting the specimen* -ncn *# corresponding to naming convention (see below)* -A *include this if you don't want to average multiple measurments*
 
 Here is an example:
 
+```bash
 CIT_magic.py -f SLB15.sam -spc 1 -ncn 3 -A
+```
 
--ncn NCON: specify naming convention
+ >-ncn NCON: specify naming convention
 
-Sample naming convention:
+ >Sample naming convention:
             [1] XXXXY: where XXXX is an arbitrary length site designation and Y
                 is the single character sample designation.  e.g., TG001a is the
                 first sample from site TG001.    [default]
@@ -78,7 +85,27 @@ Sample naming convention:
             [3] XXXX.YY: YY sample from site XXXX (XXX, YY of arbitary length) [default]
             [4-Z] XXXXYYY:  YYY is sample designation with Z characters from site XXX
 
--spc NUM : specify number of characters to designate a  specimen, default = 0
--loc LOCNAME : specify location/study name, must have either LOCNAME or SITEFILE or be a synthetic
--mcd [FS-FD:SO-MAG,.....] colon delimited list for method codes applied to all specimens in .sam file
--A: don't average replicate measurements
+ >-spc NUM : specify number of characters to designate a  specimen, default = 0
+
+ >-loc LOCNAME : specify location/study name, must have either LOCNAME or SITEFILE or be a synthetic
+
+ >-mcd [FS-FD:SO-MAG,.....] colon delimited list for method codes applied to all specimens in .sam file
+
+ >-A: don't average replicate measurements`
+
+If all data files are structured as follows:
+
+- ./Z01/Z01.sam, ./Z01/Z01.1a, ./Z01/Z01.2a, ...
+- ./Z02/Z02.sam, ./Z02/Z02.1a, ./Z02/Z02.2a, ...
+- ./Z03/Z03.sam, ./Z03/Z03.1a, ./Z03/Z03.2a, ...
+
+etc., where '.' is your current working directory and 'Z0x' are example site names, you can automate this process with the following bash script:
+
+```bash
+for i in $(ls)
+do     
+    cd $i
+    find *\.sam -exec cit_magic.py -f '{}' -WD '.' -F '{}.magic' -Fsp '{}_specimens.txt' -Fsa '{}_samples.txt' -Fsi '{}_sites.txt' -Flo '{}_locations.txt' -spc 1 -ncn 3 -A \;
+    cd ..
+done
+```
