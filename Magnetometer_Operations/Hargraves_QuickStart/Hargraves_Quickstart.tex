@@ -165,13 +165,34 @@ Click ``Start changer'' to begin your measurements!
 
 \clearpage
 
+\section*{Manual Measurements}
+There may be times when you wish to measure samples manually (i.e. one-by-one). (Say you have three samples out of a batch of sixty that you need to rerun before the next heating step, and you weren't able to do the automated reruns at the end of the last measurements. Instead of relying on the automated system and registering a spot on the tray for each sample, measurements would go faster if samples could be loaded manually.)
+
+\begin{enumerate}
+\item{Repeat steps 1 through 8 from above.}
+\item{When you get to step 9, open the ``Manual Data Collection'' tab.}
+\item{Choose a sample from the sample dropdown. \textbf{NB: sample heights do not auto-fill correctly, so you will have to manually enter the sample height. Instead of measuring the sample, I usually click on \texttt{View sample data} (in the same window) to get the sample height recorded in the data file.}}
+\item{Click ``Measure holder''. Typically, you should only need to do this once.}
+\item{Click ``Measure sample''. The system will prompt you to load the sample onto the glass holder. Be sure that the arrow is positioned correctly before clicking \texttt{OK}. The system will prompt you to flip the sample if measuring both up and down.}
+\end{enumerate}
+
+
+
+\newpage
+
 \section*{Miscellaneous Tips}
 \subsection*{SQuID jumps}
 The occassional SQuID jump is not a cause for concern---the magnetometer will remeasure samples up to three times before giving up (you will receive an email notification for this). For some samples, however, frequent SQuID jumps might be more of a nuisance, especially if multiple automatic remeasurements by the magnetometer don't seem to be resolving the issue. SQuID jumps may be improved or eliminated by slowing down the up/down and turning motors. This slows down the measurement process and decreases the chance of a flux jump for strongly magnetic samples.
 
 In the program window, go to \textsf{View}$\rightarrow$\textsf{Settings}. Under the \textsf{DC Motors (1)} tab, lower the \textsf{Lift speed slow} and \textsf{Turning speed} values. To maintain reasonable operating speeds, do not decrease the values to a lower magnitude. For example, start by lowering \textsf{Lift speed slow} from $3\times10^7$ to $2\times10^7$ and see if the SQuID jumps improve.
 
-\subsection*{Sample gets stuck on descent}
+\subsection*{Sample gets stuck on descent (\texttt{Unacceptable slop})}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.7\textwidth]{images/unacceptable_slop.png}
+\end{figure}
+
 If you receive an ``unacceptable slop'' notification, it is most likely due to a sample that has been caught on the edge of the tray as it is being lowered into the magnetomter. Go to \textsf{Diagnostics}$\rightarrow$\textsf{DC Motors} and click \textsf{Home to Top}. Unless it has dropped through the magnetometer, quickly adjust the sample on the holder before it descends again. Be sure to ``Resume'' the run.
 
 %the following tip leads to other problems with the file and should not be followed
