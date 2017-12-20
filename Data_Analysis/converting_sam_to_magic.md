@@ -105,7 +105,7 @@ etc., where '.' is your current working directory and 'Z0x' are example site nam
 for i in $(ls)
 do     
     cd $i
-    find *\.sam -exec cit_magic.py -f '{}' -WD '.' -F '{}.magic' -Fsp '{}_specimens.txt' -Fsa '{}_samples.txt' -Fsi '{}_sites.txt' -Flo '{}_locations.txt' -spc 1 -ncn 3 -A \;
+    find *\.sam -exec cit_magic.py -f '{}' -WD '..' -F '{}.magic' -Fsp '{}_specimens.txt' -Fsa '{}_samples.txt' -Fsi '{}_sites.txt' -Flo '{}_locations.txt' -spc 1 -ncn 3 -A \;
     cd ..
 done
 ```
