@@ -162,3 +162,8 @@ UNSPSC
 
 47-13-15-02
 Light-duty wiper handles delicate tasks. White. 1-ply. 140 sheets per box.
+
+#### Bolts for securing guide rails in dual-blade core saw
+
+Shoulder bolts (domestically produced), Allen, Stainless steel 18-8, 5/16" shoulder (1/4"-20 thread) x 5/8"
+https://www.boltdepot.com/Product-Details.aspx?product=19775
