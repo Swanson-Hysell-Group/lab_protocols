@@ -21,6 +21,13 @@ CC Binder ($36.00)  CC high temperature cement liquid
 *Rationale:*
 This nonmagnetic cement mixture is necessary to repair broken paleomagnetic samples which are undergoing analysis.
 
+#### Lead screw lubricant
+Thomson TriGel 300S
+https://www.thomsonlinear.com/en/product/TRIGEL-300S
+
+*Rationale:*
+This lead screw lubricant is required to lubricate the threaded rails that position the tray on the magnetometer.
+
 #### Quartz Polished Discs for sample mounting and rockmag
 
 Item # 7500-01, Quartz Polished Discs 1" x 1/16"
