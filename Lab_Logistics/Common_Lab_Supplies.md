@@ -42,6 +42,18 @@ part #: fqapsys17-19-1100
 both ends fire polished
 specify that we need the tube segments to be as straight as possible
 
+#### Petri dishes
+
+Dish, Petri; Corning; Falcon; Bacteriological; Polystyrene; Sterile; Nontreated; 35 x 10mm; Surface area: 21.29cm2; 500/CS 351008
+
+Part Number: 08757100A
+Manufacturer Name: Corning Life Sciences Dl
+Manufacturer Part Number: 351008
+Price for 500/CS box: $79.95
+
+*Rationale:*
+These petri dishes are used to house heavy mineral separates during inspection under the microscope and can also be used for longer term storage of (zircon) crystals that have been selected for geochronology. 
+
 ### CARBONATE POWDER SUPPLIES
 
 #### Samples Boxes
