@@ -49,6 +49,28 @@ part #: fqapsys17-19-1100
 both ends fire polished
 specify that we need the tube segments to be as straight as possible
 
+#### Parts for magnetometer turning motor coupler
+
+[**Slotted-Disc Flexible Shaft Coupling, Set Screw Hub for 1/4" Diameter Shaft, 5/8" Overall LG**](https://www.mcmaster.com/#59985K1)
+
+Part Number: 59985K1;
+Manufacturer Name: McMaster-Carr;
+Price: $10.54/ea
+
+[**Slotted-Disc Flexible Shaft Coupling, Set Screw Hub for 5MM Diameter Shaft, 5/8" Overall LG**](https://www.mcmaster.com/#59985K1)
+
+Part Number: 59985K1;
+Manufacturer Name: McMaster-Carr;
+Price: $10.54/ea
+
+**2 x** [**Nylon Disc for 1/2" OD, Slotted-Disc Flexible Shaft Coupling**](https://www.mcmaster.com/#59985K91)
+
+Part Number: 59985K91;
+Manufacturer Name: McMaster-Carr;
+Price: $3.14/ea
+
+*Rationale:* Parts suggested by Isaac Hilburn for replacing the turning motor coupler on the magnetometer (as an alternative to the regular replacement coupler).
+
 #### Petri dishes
 
 Dish, Petri; Corning; Falcon; Bacteriological; Polystyrene; Sterile; Nontreated; 35 x 10mm; Surface area: 21.29cm2; 500/CS 351008
