@@ -8,7 +8,7 @@
 
 [Analyzing data using demag_gui.py](Data_Analysis/demag_gui_doc.md)
 
-## Paleomagnetic lab operation
+## Superconducting rock magnetometer operation
 
 [Tuning the magnetometer SQuIDs](Magnetometer_Operations/SQuID_tuning.md)
 
@@ -17,6 +17,10 @@
 [Using the turbopump to establish magnetometer vacuum](Magnetometer_Operations/turbopump_operation.md)
 
 [Using the magnetometer software](Magnetometer_Operations/Hargraves_QuickStart.pdf)
+
+## Quantum diamond microscope operation
+
+[Running a sample on the QDM](Magnetometer_Operations/QDM_run.md)
 
 ## Lab Logistics
 
