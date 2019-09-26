@@ -19,7 +19,7 @@ CC Filler ($36.00)  CC high temperature cement powder
 CC Binder ($36.00)  CC high temperature cement liquid
 
 *Rationale:*
-This nonmagnetic cement mixture is necessary to repair broken paleomagnetic samples which are undergoing analysis.
+This cement mixture is necessary to repair broken paleomagnetic samples which are undergoing analysis.
 
 #### Lead screw lubricant
 Thomson TriGel 300S
