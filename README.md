@@ -1,4 +1,4 @@
-# Some lab protocols
+# Lab protocols used in the Swanson-Hysell Research Group
 
 ## Data analysis
 
