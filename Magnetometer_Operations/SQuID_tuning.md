@@ -7,7 +7,7 @@
 5. Press the LOCK button (lock-loop feedback light should extinguish) and use the BIAS knob to maximize the signal output. Use the OFFSET knob to further maximize the signal and to get a single sine wave---rather than two sine waves.
 6. Press the LOCK button (lock-loop light should come back on).
 7. Lock the BIAS knob in place.
-8. Repeat for Y and Z
+8. Repeat for Y and Z.  The tuned numbers can be recorded on the back of the lab notebook for each axes.
 
 ## Notes:
 
