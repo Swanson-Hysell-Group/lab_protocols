@@ -75,6 +75,12 @@ Here is an example:
 CIT_magic.py -f SLB15.sam -spc 1 -ncn 3 -A
 ```
 
+Here is another:
+
+```bash
+CIT_magic.py -f NWD1-/NWD1-.sam -ncn 2 -spc 1 -A -mno 4 -F NWD1-_measurements.magic -Fsp NWD1-_specimens.txt -Fsa NWD1-_samples.txt -Fsi NWD1-_sites.txt -Flo NWD1-_locations.txt
+```
+
  >-ncn NCON: specify naming convention
 
  >Sample naming convention:
