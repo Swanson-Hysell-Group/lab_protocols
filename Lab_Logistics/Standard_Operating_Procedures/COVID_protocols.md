@@ -3,7 +3,7 @@
 
 **SOP Title:** COVID-19 re-opening lab usage and cleaning  
 **Principle Investigator:** Nicholas Swanson-Hysell  
-**Room and Building:** McCone 351, 353 and 408 
+**Room and Building:** McCone 349, 351, 353 and 408 
 
 ## 1. Lab scheduling
 
