@@ -1,5 +1,5 @@
 # Standard Operating Procedure
-**Date:** 06/11/2020 (updated 06/15/2020)
+**Date:** 06/11/2020 (updated 08/13/2020)
 
 **SOP Title:** COVID-19 re-opening lab usage and cleaning  
 **Principle Investigator:** Nicholas Swanson-Hysell  
