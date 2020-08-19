@@ -24,6 +24,8 @@
 
 ## Lab Logistics
 
+[COVID Standard Operating Procedure](Lab_Logistics/Standard_Operating_Procedures/COVID_protocols.md)
+
 [Lab Roster and Safety Training](Lab_Logistics/Lab_Roster_Safety_Training.md)
 
 [Supply ordering information](Lab_Logistics/Common_Lab_Supplies.md)
