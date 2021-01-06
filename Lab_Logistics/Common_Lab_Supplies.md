@@ -29,7 +29,8 @@ https://www.thomsonlinear.com/en/product/TRIGEL-300S
 This lead screw lubricant is required to lubricate the threaded rails that position the tray on the magnetometer.
 
 #### Sodium silicate solution 
-
+J.T. Baker Sodium silicate ∼41° Baume in aqueous solution
+https://us.vwr.com/store/product/4560243/sodium-silicate-41-baume-in-aqueous-solution-j-t-baker
 *Rationale:*
 This sodium silicate solution works as a non-magnetic glue for attaching broken paleomagnetic cores. 
 
