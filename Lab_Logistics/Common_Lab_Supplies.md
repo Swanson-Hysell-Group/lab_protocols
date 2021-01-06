@@ -28,6 +28,12 @@ https://www.thomsonlinear.com/en/product/TRIGEL-300S
 *Rationale:*
 This lead screw lubricant is required to lubricate the threaded rails that position the tray on the magnetometer.
 
+#### Sodium silicate solution 
+
+*Rationale:*
+This sodium silicate solution works as a non-magnetic glue for attaching broken paleomagnetic cores. 
+
+
 #### Quartz Polished Discs for sample mounting and rockmag
 
 Item # 7500-01, Quartz Polished Discs 1" x 1/16"
