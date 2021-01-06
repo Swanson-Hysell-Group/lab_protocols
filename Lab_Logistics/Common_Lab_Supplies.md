@@ -29,8 +29,11 @@ https://www.thomsonlinear.com/en/product/TRIGEL-300S
 This lead screw lubricant is required to lubricate the threaded rails that position the tray on the magnetometer.
 
 #### Sodium silicate solution 
-J.T. Baker Sodium silicate ∼41° Baume in aqueous solution
-https://us.vwr.com/store/product/4560243/sodium-silicate-41-baume-in-aqueous-solution-j-t-baker
+J.T. Baker Sodium silicate solution which is available through Fisher Scientific on BearBuy (Sodium Silicate Solution CAS Number: 1344-09-8, 500mL, 3877-01 1/EA)
+Part Number	02004231;
+Manufacturer Info	3877-01 - (J.t.baker);
+CAS Number	1344-09-8
+
 *Rationale:*
 This sodium silicate solution works as a non-magnetic glue for attaching broken paleomagnetic cores. 
 
