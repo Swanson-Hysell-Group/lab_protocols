@@ -84,19 +84,25 @@ Price: $3.14/ea
 [**Plastic bearings (1/2" ID, 1-1/8" OD, 1/4" width) for sample changer stage screw**](https://www.mscdirect.com/product/details/35437359)
 
 Part number: 35437359 (plastic bearing with glass bearing balls);
+
 Manufacturer: MSC Industrial Supply, Inc.
+
 Price: $10.24/ea
 
 Part number: 35437441 (plastic bearing with stainless steal bearing balls);
+
 Manufacturer: MSC Industrial Supply, Inc.
+
 Price: $6.96/ea
 
 *Rationale:* Parts necessary for the stage screw to function properly. In fact, entirely stainless steal bearing with width of 5/16" might fit beter for the screws.
 
-[**Bronze bearings (1/2" OD) for sample changer stage screw**](https://www.pic-designcatalog.com/b11-50.html?action=2D)
+[**Bronze bearings (1/2" OD, 5/8" Flange Dia) for sample changer stage screw**](https://www.pic-designcatalog.com/b11-50.html?action=2D)
 
 Part number: B11-50;
+
 Manufacturer: PIC design.
+
 Price: $4.45/ea
 
 #### Petri dishes
