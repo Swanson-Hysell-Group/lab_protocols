@@ -61,6 +61,10 @@ specify that we need the tube segments to be as straight as possible
 
 #### Parts for magnetometer turning motor coupler
 
+##### Classic coupler
+
+**Lovejoy 1CYG9 which can be ordered from Grainger**
+
 [**Slotted-Disc Flexible Shaft Coupling, Set Screw Hub for 1/4" Diameter Shaft, 5/8" Overall LG**](https://www.mcmaster.com/#59985K1)
 
 Part Number: 59985K1;
