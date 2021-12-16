@@ -7,3 +7,5 @@
 5. Turn the oven right side up and secure the thermocouple to the oven case by applying a glob of silicone rubber cement around the entry hole. Allow the cement to cure before using the oven. 
 6. Call Craig at 401-792-3537 if you have any questions. 
 7. The recommended brand for the silicone rubber cement is GE. You may be able to get a 2.8 Oz 100% cement/caulk from a hardware store. 
+
+![thermocouple_connection](thermocouple_connection.png)
