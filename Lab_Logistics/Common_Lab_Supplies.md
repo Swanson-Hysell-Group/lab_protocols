@@ -28,7 +28,10 @@ https://www.thomsonlinear.com/en/product/TRIGEL-300S
 *Rationale:*
 This lead screw lubricant is required to lubricate the threaded rails that position the tray on the magnetometer.
 
+** update from Yiming 1/19/2022: regular Super Lube brand synthetic lubricant grease works better than the LedScrew lubricant - it dries much slower and is much cheaper than the led screw lubricant.
+
 #### Sodium silicate solution 
+
 J.T. Baker Sodium silicate solution which is available through Fisher Scientific on BearBuy (Sodium Silicate Solution CAS Number: 1344-09-8, 500mL, 3877-01 1/EA)
 Part Number	02004231;
 Manufacturer Info	3877-01 - (J.t.baker);
@@ -36,6 +39,8 @@ CAS Number	1344-09-8
 
 *Rationale:*
 This sodium silicate solution works as a non-magnetic glue for attaching broken paleomagnetic cores. 
+
+** update from Yiming 1/19/2022: the Baker brand sodium silicate solution is thick and makes solid cement less likely to puff up bubbles after high-temperature heatings. But regular cheap 40% sodium silicate solutions also works. The trade off is one needs to add more Omega cement.
 
 
 #### Quartz Polished Discs for sample mounting and rockmag
