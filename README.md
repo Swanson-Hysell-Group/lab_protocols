@@ -31,5 +31,3 @@
 [Supply ordering information](Lab_Logistics/Common_Lab_Supplies.md)
 
 ## Manuscript Prep
-
-[Syncing a manuscript between ShareLatex and Github](Manuscript_Prep/ShareLatex_Github.md)
