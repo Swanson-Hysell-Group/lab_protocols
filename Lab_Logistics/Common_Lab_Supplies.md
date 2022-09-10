@@ -12,7 +12,14 @@ Grainger Item # 4XR62
 Self-Fusing Tape, 1 x 432 in, 20 mil, White
 Grainger Item # 6PFH1
 
+### Magnetometer roller chain
+
+FRA-10FT PIC design No-slip positioning belt: https://www.pic-designcatalog.com/fra-10ft.html
+
+Alternative: 14CCF-10FT_FLEX-E-PITCH BELT from WINFRED M. BERG: https://www.wmberg.com/products/belts-and-chains/flex-e-pitch/1/14ccf-10ft?pcomSession=OK
+
 #### High-temperature cement
+
 http://www.omega.com/pptst/OB_BOND_CHEM_SET.html
 
 CC Filler ($36.00)  CC high temperature cement powder
