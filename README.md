@@ -1,5 +1,7 @@
 # Lab protocols used in the Swanson-Hysell Research Group
 
+This repository contains documentation associated with lab operations and some data analysis protocols within the research group.
+
 ## Data analysis
 
 [Making .sam header files from orientation data](Data_Analysis/making_sam_files.md)
