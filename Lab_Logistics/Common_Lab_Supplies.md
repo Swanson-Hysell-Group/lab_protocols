@@ -12,7 +12,15 @@ Grainger Item # 4XR62
 Self-Fusing Tape, 1 x 432 in, 20 mil, White
 Grainger Item # 6PFH1
 
-### Magnetometer roller chain
+#### Magnetometer sample changer stage
+
+acetal block that ride along threaded screws: https://www.mcmaster.com/84845K126/
+
+Precision Acme Lead Screws that needs to be machined to fit the size of the stage. The ends of the screws also needs to be machined so that it can fit bronze washers and plastic bearings: https://www.mcmaster.com/catalog/129/1365/98980A370
+
+You will also need to buy an Acme thread tap to finish the blocks: https://www.mcmaster.com/taps/thread-size~1-2-10/
+
+#### Magnetometer roller chain
 
 FRA-10FT PIC design No-slip positioning belt: https://www.pic-designcatalog.com/fra-10ft.html
 
@@ -130,8 +138,36 @@ Manufacturer Name: Corning Life Sciences Dl
 Manufacturer Part Number: 351008
 Price for 500/CS box: $79.95
 
+
+
+Falcon Bacteriological Petri Dishes with Lid, Diameter: 60 mm, Height: 15 mm, Culture Area: 21.29 cm2, Polystyrene, Sterile, Surface Treatment: Non-Treated, Cell Culture Petri Dish, Disposable: Yes, No. per Case: 500/Cs., No. per Pack: 20/Pk., 351007 500
+
+
+
+Manufacturer Part Number: Corning Life Sciences Dl
+
+Manufacturer Part Number: 351007
+
+Price for 500/CS box: $72.25
+
+
+
 *Rationale:*
 These petri dishes are used to house heavy mineral separates during inspection under the microscope and can also be used for longer term storage of (zircon) crystals that have been selected for geochronology. 
+
+
+
+### Pipette
+
+Globe 5.8 mL Fine-Tip Standard LDPE Transfer Pipets, 147 mm, 500/Dispenser Box
+Manufacturer Name: Globe 
+Manufacturer Part Number: 134050-500
+Price for 500/CS box: $36.05
+
+*Rationale:*
+These pipettes are used to transfer heavy mineral separates during inspection under the microscope and to managa ethanol in the petri dishes. 
+
+
 
 ### CARBONATE POWDER SUPPLIES
 
@@ -166,6 +202,17 @@ Part Number: 14955186 (CS)
 Preferred location: 001, BFS ID: 0000001996
 Count: 1000
 Price: 172.66
+
+
+
+Research Products International Polyethylene Bags, Unprinted, Clear, 4 mil Thick, 12 x 18 Inches, 100 per Case - RPI
+
+RPI (RPI)
+Part Number: 286696C
+Count: 100
+Price: $33.10
+
+
 
 #### Falcon Tubes
 
