@@ -60,9 +60,9 @@ This sodium silicate solution works as a non-magnetic glue for attaching broken 
 
 #### Quartz Polished Discs for sample mounting and rockmag
 
-Item # 7500-01, Quartz Polished Discs 1" x 1/16"
-http://gmassoc.thomasnet.com/item/quartz-discs-2/quartz-polished-discs/7500-01?
-They are $3.75 each
+Item # 7500-01, Quartz Polished Discs 1" x 1/16" #7500-01
+https://gm-quartz.com/products/quartz-polished-plates
+They are $6.60 each
 
 *Rationale:*
 We will mount <1" diameter samples on these quartz disks which are otherwise too small for our magnetometer's 1" sample holder.  This way, we can run necessary rock magnetic characterization experiments on small samples which are essential for achieving the goals of the project associated with this fund.
