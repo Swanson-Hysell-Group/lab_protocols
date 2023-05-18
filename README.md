@@ -18,7 +18,7 @@ This repository contains documentation associated with lab operations and some d
 
 [Using the turbopump to establish magnetometer vacuum](Magnetometer_Operations/turbopump_operation.md)
 
-[Replacing a thermocouple on an ASC oven](Magnetometer_Operations/thermocouple_replacement.md
+[Replacing a thermocouple on an ASC oven](Magnetometer_Operations/thermocouple_replacement.md)
 
 [Using the magnetometer software](Magnetometer_Operations/Hargraves_QuickStart.pdf)
 
@@ -28,10 +28,6 @@ This repository contains documentation associated with lab operations and some d
 
 ## Lab Logistics
 
-[COVID Standard Operating Procedure](Lab_Logistics/Standard_Operating_Procedures/COVID_protocols.md)
-
 [Lab Roster and Safety Training](Lab_Logistics/Lab_Roster_Safety_Training.md)
 
 [Supply ordering information](Lab_Logistics/Common_Lab_Supplies.md)
-
-## Manuscript Prep
