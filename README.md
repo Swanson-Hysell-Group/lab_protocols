@@ -18,6 +18,8 @@ This repository contains documentation associated with lab operations and some d
 
 [Using the turbopump to establish magnetometer vacuum](Magnetometer_Operations/turbopump_operation.md)
 
+[Replacing a thermocouple on an ASC oven](Magnetometer_Operations/thermocouple_replacement.md
+
 [Using the magnetometer software](Magnetometer_Operations/Hargraves_QuickStart.pdf)
 
 ## Quantum diamond microscope operation
