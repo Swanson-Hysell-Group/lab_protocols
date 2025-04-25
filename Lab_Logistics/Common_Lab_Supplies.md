@@ -4,6 +4,10 @@ Go to: https://bearbuy.is.berkeley.edu/ and log-in. Some items can be found thro
 
 ### Swanson-Hysell Lab Common Lab Supplies
 
+### Vacuum valve for RAPID magnetometer
+
+1" 2-way N.C. NBR/PA valve, 110-120V/50-60Hz AC, cable gland, part# H6B19-00Y, available at Granzow. 
+
 #### Vacuum hose for RAPID magnetometer
 
 Hose, 1 In X 100 Ft
