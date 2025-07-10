@@ -22,6 +22,8 @@ This repository contains documentation associated with lab operations and some d
 
 [Using the magnetometer software](Magnetometer_Operations/Hargraves_QuickStart.pdf)
 
+[Testing SQuID amplifer flux quanta voltage response](Magnetometer_Operations/testing_flux_quanta_voltage_response.md)
+
 ## Quantum diamond microscope operation
 
 [Running a sample on the QDM](Magnetometer_Operations/QDM_run.md)
