@@ -4,7 +4,11 @@ Go to: https://bearbuy.is.berkeley.edu/ and log-in. Some items can be found thro
 
 ### Swanson-Hysell Lab Common Lab Supplies
 
-### Vacuum valve for RAPID magnetometer
+#### Quicksilver Controls motor driver box
+
+The Rapid system uses four Servo motors coupled with four SilverDust D2-IGF (QCI-D2-IGF RoHS) control boxes. https://www.quicksilvercontrols.com/motion-control-products/.
+
+#### Vacuum valve for RAPID magnetometer
 
 1" 2-way N.C. NBR/PA valve, 110-120V/50-60Hz AC, cable gland, part# H6B19-00Y, available at Granzow. 
 
@@ -208,7 +212,6 @@ Count: 1000
 Price: 172.66
 
 
-
 Research Products International Polyethylene Bags, Unprinted, Clear, 4 mil Thick, 12 x 18 Inches, 100 per Case - RPI
 
 RPI (RPI)
@@ -245,12 +248,12 @@ Fisher Scientific - FB NITRILE GLV PF LF S 100/PK - Small - 191301597B
 
 #### Medium Nitrile gloves
 Fisher Scientific
-Cat # 19-130-1597C$25.97 box or 10 pack for $220.77
+Cat # 19-130-1597C\$25.97 box or 10 pack for $220.77
 http://tiny.cc/tpd06
 
 #### Large Nitrile gloves
 Fisher Scientific
-Cat # 19-130-1597D$25.97 box
+Cat # 19-130-1597D\$25.97 box
 http://tiny.cc/ngxj3
 
 ### DRILL BITS
@@ -259,6 +262,14 @@ http://tiny.cc/ngxj3
 Henry Schein
 1009086EZ Burs Carbide HP 6 10/Pk        $14.99
 Search Results - Henry Schein Dental
+
+### Geochronology Supplies
+
+#### AP-D 0.3 μm. Deagglomerated alumina powder 1kg for polishing epoxy mounts
+ part no. \#40700039
+
+#### TexMet C, PSA, 10 in polishing cloth pads
+ part no. \#401110
 
 ### OTHER
 
