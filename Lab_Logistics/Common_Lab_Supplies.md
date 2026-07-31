@@ -4,6 +4,12 @@ Go to: https://bearbuy.is.berkeley.edu/ and log-in. Some items can be found thro
 
 ### Swanson-Hysell Lab Common Lab Supplies
 
+#### C-12b, Chisel, Hand
+http://ampcosafetytools.thomasnet.com/item/chisels/chisel-hand/c-12b-id-2160-
+
+#### Item # H-10FG, Hammer, Bricklayers' with Fiberglass Handle
+http://ampcosafetytools.thomasnet.com/item/hammers/hammer-bricklayers-with-fiberglass-handle/h-10fg-id-193-
+
 #### Quicksilver Controls motor driver box
 
 The Rapid system uses four Servo motors coupled with four SilverDust D2-IGF (QCI-D2-IGF RoHS) control boxes. https://www.quicksilvercontrols.com/motion-control-products/.
